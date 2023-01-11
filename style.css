@@ -131,7 +131,7 @@
 .list-items .icons a:first-child{
   margin-left: 0px;
 }
-.content{
+.header{
   position: absolute;
   top: 50%;
   left: 50%;
@@ -141,13 +141,14 @@
   width: 100%;
   text-align: center;
 }
-.content .header{
-  font-size: 33px;
-  font-weight: 500;
-}
-.content h2{
+ .header h1{
   font-size: 30px;
   font-weight: 500;
+   Color: #64ffda
+}
+.header p{
+  font-size: 25px;
+  font-weight: 400;
 }
 
 .card {
@@ -203,7 +204,7 @@
 
   margin: 0.5rem 0;
 
-  font-size: 0.875rem;
+  font-size: 17px;
 
   color: #666;
 
