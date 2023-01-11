@@ -173,33 +173,33 @@
 
 }
 
-.card__image {
+.card-image {
 
   width: 100%;
 
-  height: 200px;
+  height: 100px;
 
   object-fit: cover;
 
 }
 
-.card__content {
+.cardcontent {
 
   padding: 1rem;
 
 }
 
-.card__title {
+.card-title {
 
   margin: 0;
 
   font-size: 1.25rem;
 
-  font-weight: 600;
+  font-weight: 500;
 
 }
 
-.card__text {
+.card-text {
 
   margin: 0.5rem 0;
 
@@ -209,7 +209,7 @@
 
 }
 
-.card__link {
+.card-link {
 
   display: inline-block;
 
@@ -223,7 +223,7 @@
 
 }
 
-.card__link:hover {
+.card-link:hover {
 
   color: #00b8d4;
 
