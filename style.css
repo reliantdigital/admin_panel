@@ -6,11 +6,15 @@
   font-family: 'Poppins', sans-serif;
 }
 .navbar {
-  background-color:#11111;
+  background-color: black;
   margin: 0px;
   padding: 0px;
   }
 
+.navbar .a{
+   padding-left: 10px;
+   text-decoration:none;
+}
 .wrapper{
   height: 100%;
   width: 300px;
